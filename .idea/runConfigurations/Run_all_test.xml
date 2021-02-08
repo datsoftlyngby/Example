@@ -3,7 +3,7 @@
     <module name="Example" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="example.*" />
+        <option name="PATTERN" value="example.domain.recipe.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
